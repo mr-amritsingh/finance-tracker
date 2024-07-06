@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "type": "income",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "type": "income",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "type": "expense",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "type": "expense",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "type": "income",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "type": "income",
+      "amount": 1000,
+      "category": "food"
+    },
+    {
+      "id": "350a",
+      "type": "income",
+      "amount": 3000,
+      "category": "food"
+    },
+    {
+      "id": "8773",
+      "type": "income",
+      "amount": 3000,
+      "category": "food"
+    },
+    {
+      "id": "ab0f",
+      "type": "income",
+      "amount": 3000,
+      "category": "food"
+    },
+    {
+      "id": "13f6",
+      "type": "income",
+      "amount": "2000"
+    },
+    {
+      "id": "cca1",
+      "type": "expense",
+      "amount": "120",
+      "category": "movie"
+    },
+    {
+      "id": "404e",
+      "type": "income",
+      "amount": "234"
+    },
+    {
+      "id": "4a62",
+      "type": "expense",
+      "amount": "120",
+      "category": "movie"
+    },
+    {
+      "id": "0365",
+      "type": "expense",
+      "amount": "1203",
+      "category": "medical"
+    },
+    {
+      "id": "50bc",
+      "type": "expense",
+      "amount": "1200",
+      "category": "medical"
+    },
+    {
+      "id": "1e4d",
+      "type": "expense",
+      "amount": "100",
+      "category": "travel"
+    },
+    {
+      "id": "112e",
+      "type": "expense",
+      "amount": "1000",
+      "category": "education"
+    },
+    {
+      "id": "6371",
+      "type": "expense",
+      "amount": "1200",
+      "category": "education"
+    },
+    {
+      "id": "3dfe",
+      "type": "income",
+      "amount": "200"
+    },
+    {
+      "id": "a353",
+      "type": "income",
+      "amount": "200"
+    },
+    {
+      "id": "ffe2",
+      "type": "expense",
+      "amount": "100",
+      "category": "travel"
+    },
+    {
+      "id": "3212",
+      "type": "expense",
+      "amount": "200",
+      "category": "travel"
+    },
+    {
+      "id": "c0cf",
+      "type": "expense",
+      "amount": "100",
+      "category": "travel"
+    }
+  ]
+}
